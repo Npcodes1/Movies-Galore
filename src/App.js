@@ -33,7 +33,7 @@ const App = () => {
     return (
         <div className="app">
             <h1>Movies Galore</h1>
-            <h3>A wide variety of movie posters available with a simple search.</h3>
+            <h3>A wide variety of movie posters available with a simple search</h3>
 
             <div className="search">
                 <input id="search"
