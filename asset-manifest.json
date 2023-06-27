@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movies-Galore/static/css/main.517a7a1e.css",
+    "main.js": "/Movies-Galore/static/js/main.78aeb89a.js",
+    "index.html": "/Movies-Galore/index.html",
+    "static/media/search.svg": "/Movies-Galore/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.517a7a1e.css.map": "/Movies-Galore/static/css/main.517a7a1e.css.map",
+    "main.78aeb89a.js.map": "/Movies-Galore/static/js/main.78aeb89a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517a7a1e.css",
+    "static/js/main.78aeb89a.js"
+  ]
+}
