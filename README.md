@@ -1,4 +1,4 @@
-This projects mainly focuses on utilizing React and incorporating APIs. I followed the React JS Full Course 2023-Build an App and Master React in 1 Hour (https://www.youtube.com/watch?v=b9eMGE7QtTk). This project uses movie posters from The Open Movie Database. It helped me understand a little more about creating API keys and how it all comes together to build my project. 
+This project mainly focuses on utilizing React and incorporating APIs. I followed the React JS Full Course 2023-Build an App and Master React in 1 Hour (https://www.youtube.com/watch?v=b9eMGE7QtTk). This project uses movie posters from The Open Movie Database. It helped me understand a little more about creating API keys and how it all comes together to build my project. 
 
 I made a few minor alterations to the project compared to the video's. I changed the title and added a brief summary so the user could know a little bit about what the site is about. The main alteration I did was I added a feature where the user can hit enter to search for the movie titles, rather than just having to click on the search icon. I thought this would help a little bit for efficiency sake.
 
